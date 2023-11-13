@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Location
 metadata:
-  name: software-templates
-  description: A collection of Backstage templates for Janus-IDP Backstage
+  name: Stephan github software-templates
+  description: This are my software-templates
 spec:
   type: url
   targets:
